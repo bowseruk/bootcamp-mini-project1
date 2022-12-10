@@ -33,7 +33,7 @@ The site does not require installation steps.
 
 The website can be viewed at [https://bowseruk.github.io/bootcamp-mini-project1/](https://bowseruk.github.io/bootcamp-mini-project1/) with Google Chrome. The source can be viewed in Chrome by right clicking and selecting inspect.
 
-![Screenshot of the image](assets/images/screenshot.png)
+![Screenshot of the Webpage](assets/images/screenshot.png)
 
 ## Credits
 
