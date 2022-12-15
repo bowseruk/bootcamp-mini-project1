@@ -2,9 +2,7 @@
 
 ## Description 
 
-This project was created using HTML and CSS to make a landing page without starting code. There was the following requirements 
-
-For this project, a webpage was editted to meet accessibility standards. This was achieved by completing the following:
+This project was created using HTML and CSS to make a landing page without starting code. There was the following requirements:
 
 * Create a single webpage that collects a visitor's contact information.
 * The page needs to have a header and footer.
@@ -23,7 +21,7 @@ For this project, a webpage was editted to meet accessibility standards. This wa
 * The image includes a descriptive `alt` attribute.
 * The page is deployed to GitHub Pages.
 
-The following page is the result.
+The page in this repo is the result.
 
 ## Installation
 
