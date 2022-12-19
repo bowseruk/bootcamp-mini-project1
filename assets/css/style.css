@@ -42,10 +42,17 @@ nav ul {
     background-color: #333;
 }
 
-nav li {
+/* This positions the header of the nav bar */
+.nav-header {
     float: left;
 }
 
+/* This positions the link to the right */
+.nav-link {
+    float: right;
+}
+
+/* Theming for the links and header */
 nav li a, nav li h2 {
     display: block;
     color: azure;
@@ -62,7 +69,7 @@ nav li h2 {
     margin-block-start: 14px;
     padding: 0 16px;
 }
-
+/* Change the color of the link when you hover above it */
 nav li a:hover {
     background-color: #111;
 }
